@@ -99,8 +99,8 @@ importers:
         specifier: ^5.16.14
         version: 5.16.14(@emotion/react@11.14.0(@types/react@19.0.8)(react@19.0.0))(@emotion/styled@11.14.0(@emotion/react@11.14.0(@types/react@19.0.8)(react@19.0.0))(@types/react@19.0.8)(react@19.0.0))(@types/react@19.0.8)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/monorepo':
-        specifier: github:mui/material-ui#40a4e6b3e684fff41c68f2d01d5a0e45aded980e
-        version: https://codeload.github.com/mui/material-ui/tar.gz/40a4e6b3e684fff41c68f2d01d5a0e45aded980e(encoding@0.1.13)
+        specifier: github:mui/material-ui#8554cc592780edec36eafc732ff2dcbae7db5a35
+        version: https://codeload.github.com/mui/material-ui/tar.gz/8554cc592780edec36eafc732ff2dcbae7db5a35(encoding@0.1.13)
       '@mui/utils':
         specifier: ^5.16.14
         version: 5.16.14(@types/react@19.0.8)(react@19.0.0)
@@ -3231,8 +3231,8 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/monorepo@https://codeload.github.com/mui/material-ui/tar.gz/40a4e6b3e684fff41c68f2d01d5a0e45aded980e':
-    resolution: {tarball: https://codeload.github.com/mui/material-ui/tar.gz/40a4e6b3e684fff41c68f2d01d5a0e45aded980e}
+  '@mui/monorepo@https://codeload.github.com/mui/material-ui/tar.gz/8554cc592780edec36eafc732ff2dcbae7db5a35':
+    resolution: {tarball: https://codeload.github.com/mui/material-ui/tar.gz/8554cc592780edec36eafc732ff2dcbae7db5a35}
     version: 7.0.0-alpha.0
     engines: {pnpm: 9.15.4}
 
@@ -12303,7 +12303,7 @@ snapshots:
       '@emotion/styled': 11.14.0(@emotion/react@11.14.0(@types/react@19.0.8)(react@19.0.0))(@types/react@19.0.8)(react@19.0.0)
       '@types/react': 19.0.8
 
-  '@mui/monorepo@https://codeload.github.com/mui/material-ui/tar.gz/40a4e6b3e684fff41c68f2d01d5a0e45aded980e(encoding@0.1.13)':
+  '@mui/monorepo@https://codeload.github.com/mui/material-ui/tar.gz/8554cc592780edec36eafc732ff2dcbae7db5a35(encoding@0.1.13)':
     dependencies:
       '@googleapis/sheets': 9.3.1(encoding@0.1.13)
       '@netlify/functions': 3.0.0
